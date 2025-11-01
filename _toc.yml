@@ -2,5 +2,6 @@
 format: jb-book
 root: intro
 chapters:
+  - file: sample
   - file: posts/welcome
   - file: posts/first-blog-post
