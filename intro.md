@@ -14,3 +14,7 @@ This blog is built with [Jupyter Book](https://jupyterbook.org/) and automatical
 - Ideas and reflections
 
 Check out the blog posts in the sidebar to read more!
+
+## Quick Links
+
+- [Sample Page](sample.md) - An example of additional content
